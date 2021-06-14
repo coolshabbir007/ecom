@@ -1,0 +1,64 @@
+					Electro world
+
+I have assumed the name of the company/shop/website = Elctro Wolrd which deals with
+all the electronic items.They have offline store across the city and they also sale their products online.
+
+
+The website is fully responsive and it can be viewed on different devices like mobile tablets etc.
+
+
+
+
+
+					Website structure
+	
+
+The website is divided into several section like the navigation menu, slider section, 
+featured products section, deal of the day section, a slider of all the products that they sale, a small about us section that is inviting users to come and shop with them
+and last the footer section.
+
+1=The navigation menu
+The navigation menu consist of the name or logo of the company in my case I have used 
+name of the company.
+
+Navigation menu consist of:- 
+Home=The home or the landing page of the website it is highlighted which means that currently we are on the home page.
+
+About=About, which will take you to the about section of the website after clicking on it.
+
+Products=It is a drop down menu which consist of all the name of the products that the company sale or deals with.
+
+Serach Bar=The search bar and button is there to find any products in case customer directly want to search their products and have a look
+
+Sign In=The sign in button which is present at top of the navigation menu is for the customers to log in and start buying things from the website.When you click on the sign in button a pop will apear and it will ask you to give your login details so that you can login and do your stuff.
+
+
+2=Slider
+The second section consist of slider which will display all the trending deals and offers so that customer can easily decide on which products the company is giving discount and decide what to buy from them.
+It is very important because it gives every important information at a glance.
+
+
+3=The featured products or the trending products section
+In this section the idea is to display all the trending products or the products which is in high demand 
+
+
+4=The deal of the day section
+In this section everyday or every week  a product is displayed for the deal for the customers at amazing price.
+
+
+5=Our products
+In this section all the products which company deals with are displayed as a slider so that customer can have idea about the produts
+
+6=About us 
+In this section the company is inviting all the customers to come and shop with them because they deal with almost every electronic items at very affordable price range.
+
+
+
+7=Contact us
+The contact us section gives information like the timing of the  opening of the shop phone no email id
+so in any case if any customer have any query they can easily contact.
+
+
+
+
+

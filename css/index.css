@@ -1,0 +1,86 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.nav-link {
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: bolder;
+}
+
+.d-block {
+  height: 500px;
+}
+
+.img-thubnail {
+  height: 200px;
+}
+
+.shop {
+  background-color: #f0e2c9;
+}
+
+#items {
+  border-radius: 50%;
+}
+
+#items:hover {
+  transform: translateY(-20px);
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+}
+
+.deal_pic {
+  border-radius: 15px;
+}
+
+.footer {}
+
+
+/*Responsive css code for viewing in different devices
+// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {
+  ...
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {
+  ...
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {
+  ...
+}
+
+
+/* X-Large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+  ...
+}
+
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+
+@media (min-width: 1400px) {
+  ...
+}
